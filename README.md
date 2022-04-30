@@ -9,7 +9,7 @@ Portfolio para Data Science
 # Carlos Melo
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-Cientista de dados iniciante e estudante de economia na Universidade de São Paulo (USP). Possuo ótima capacidade análítica, conhecimento em Python, modelos de machine learning e business intelligence.
+Cientista de dados iniciante e estudante de economia na Universidade de São Paulo (USP). Possuo ótima capacidade analítica, conhecimento em Python, modelos de machine learning e business intelligence.
 
 
 
@@ -19,12 +19,7 @@ Cientista de dados iniciante e estudante de economia na Universidade de São Pau
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Aqui estão os meus projetos publicados até agora:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+
