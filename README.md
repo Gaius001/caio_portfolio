@@ -7,7 +7,7 @@ Portfolio para Data Science
 </p>
 
 # Caio Lopes
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Data Scientist* </sub>
 
 Cientista de dados iniciante e graduando em economia na Universidade de São Paulo (USP). 
 Ótima capacidade analítica, conhecimento em Python, modelos de machine learning e business intelligence.
