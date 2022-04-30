@@ -6,7 +6,7 @@ Portfolio para Data Science
   <img src="https://raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png" >
 </p>
 
-# Carlos Melo
+# Caio Lopes
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
 Cientista de dados iniciante e graduando em economia na Universidade de São Paulo (USP). 
