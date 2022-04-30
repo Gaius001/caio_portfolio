@@ -9,7 +9,8 @@ Portfolio para Data Science
 # Carlos Melo
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-Cientista de dados iniciante e estudante de economia na Universidade de São Paulo (USP). Possuo ótima capacidade analítica, conhecimento em Python, modelos de machine learning e business intelligence.
+Cientista de dados iniciante e graduando em economia na Universidade de São Paulo (USP). 
+Ótima capacidade analítica, conhecimento em Python, modelos de machine learning e business intelligence.
 
 
 
