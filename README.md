@@ -22,5 +22,6 @@ Cientista de dados iniciante e graduando em economia na Universidade de São Pau
 ## Projetos:
 Aqui estão os meus projetos publicados até agora:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Analisando os Dados do Airbnb -- Los Angeles:** https://github.com/Gaius001/Airbnb_Los_Angeles/edit/main/README.md
+
 
